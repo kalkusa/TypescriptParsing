@@ -6,6 +6,7 @@
   "author": "Arkadiusz Kalkus <kalkus@10g.pl>",
   "license": "MIT",
   "dependencies": {
+    "typescript": "^4.5.3",
     "typescript-parser": "^2.6.1"
   },
   "scripts": {

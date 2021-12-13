@@ -1,0 +1,95 @@
+{
+  "filePath": "sample.ts",
+  "rootPath": "",
+  "start": 0,
+  "end": 443,
+  "imports": [],
+  "exports": [],
+  "declarations": [
+    {
+      "name": "SampleInterface",
+      "isExported": true,
+      "start": 0,
+      "end": 352,
+      "accessors": [],
+      "properties": [
+        {
+          "name": "boolNullableValue",
+          "visibility": 2,
+          "type": "boolean",
+          "isOptional": true,
+          "isStatic": false,
+          "start": 106,
+          "end": 134
+        },
+        {
+          "name": "someInt",
+          "visibility": 2,
+          "type": "number",
+          "isOptional": false,
+          "isStatic": false,
+          "start": 205,
+          "end": 221
+        },
+        {
+          "name": "arrayOfNumbers",
+          "visibility": 2,
+          "type": "number[]",
+          "isOptional": false,
+          "isStatic": false,
+          "start": 325,
+          "end": 350
+        }
+      ],
+      "methods": []
+    },
+    {
+      "name": "SecondInterface",
+      "isExported": true,
+      "start": 354,
+      "end": 442,
+      "accessors": [],
+      "properties": [
+        {
+          "name": "euroz",
+          "visibility": 2,
+          "type": "number",
+          "isOptional": false,
+          "isStatic": false,
+          "start": 391,
+          "end": 405
+        },
+        {
+          "name": "dollaz",
+          "visibility": 2,
+          "type": "number",
+          "isOptional": false,
+          "isStatic": false,
+          "start": 408,
+          "end": 423
+        },
+        {
+          "name": "yeniz",
+          "visibility": 2,
+          "type": "number",
+          "isOptional": false,
+          "isStatic": false,
+          "start": 426,
+          "end": 440
+        }
+      ],
+      "methods": []
+    }
+  ],
+  "resources": [],
+  "usages": [
+    "type",
+    "memberof",
+    "boolNullableValue",
+    "someInt",
+    "arrayOfNumbers",
+    "euroz",
+    "dollaz",
+    "yeniz"
+  ]
+}
